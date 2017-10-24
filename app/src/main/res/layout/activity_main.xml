@@ -27,7 +27,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
-        android:text="The Real Ghostbusters"
+        android:text="@string/series_name"
         android:textAlignment="center"
         android:textColor="@color/colorText"
         android:textStyle="bold"
@@ -42,7 +42,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
-        android:text="S01:E03"
+        android:text="@string/season_episode"
         android:textColor="@color/colorText"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
@@ -230,5 +230,4 @@
         app:layout_constraintLeft_toLeftOf="parent"
         android:layout_marginTop="32dp"
         app:layout_constraintTop_toBottomOf="@+id/seekBar" />
-
 </android.support.constraint.ConstraintLayout>

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Constraint App</string>
+    <string name="series_name">The Real Ghostbusters</string>
+    <string name="season_episode">S01:E03</string>
 </resources>
